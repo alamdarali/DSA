@@ -61,6 +61,9 @@ int main(){
     if(flag == 1){
         cout<<" found";
     }
+    else{
+        cout<<"not found";
+    }
 
     
     
